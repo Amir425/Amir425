@@ -1,16 +1,46 @@
-## Hi there 👋
+---
 
-<!--
-**Amir425/Amir425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Amir Baloch' Skill Arsenal**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 **Frontend Development**
+- **Core Technologies**: `HTML | CSS | JavaScript | TypeScript`
+- **Frameworks**: `React.js | Next.js`
+- **State Management**: `Redux | Redux Toolkit `
+- **Styling & UI**: `Tailwind CSS`
+- **TailwindCSS UI Libraries**: `ShadCN | Flowbite | Tailgrids | DaisyUI | Mamba UI | Headless UI`
+
+---
+
+### 🛠 **Backend Development**
+- **Languages**: `Node.js`
+- **Frameworks**: `Express.js | Nest.js`
+- **API Design**: `RESTful APIs`
+
+---
+
+### 🗃 **Databases**
+- **NoSQL**: `MongoDB | Mongoose`
+- **SQL**: `PostgreSQL`
+
+---
+
+### 🛡 **Authentication and Security**
+- **Token-Based**: `JWT (JSON Web Tokens)`
+- **Cookie-Based**: `Cookie Authentication`
+- **OAuth**: `OAuth 2.0`
+
+
+---
+
+### 🚀 **Deployment and Hosting**
+- **Platforms**: `Render | Heroku | Firebase`
+  
+---
+
+📫 You can reach out to me on
+
+- muhammadamirbaloch6@gmail.com
+- https://www.linkedin.com/in/amir-baloch
+- https://www.instagram.com/_amirbaloch
